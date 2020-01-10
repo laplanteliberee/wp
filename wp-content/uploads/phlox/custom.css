@@ -1,0 +1,35 @@
+.aux-logo-header .aux-logo-anchor {max-width: 193px;}
+body {background-size: auto;}
+body:before {height: 100%;background-image: url("");}
+body {background-repeat: no-repeat;}
+body {background-position: left top;}
+body {background-attachment: scroll;}
+body {font-family: "Raleway";font-weight: regular;}
+h1, h2, h3, h4, h5, h6, .aux-h1, .aux-h2, .aux-h3, .aux-h4, .aux-h5, .aux-h6 {font-family: "Raleway";font-weight: 300;}
+.page-title {font-family: "Raleway";font-weight: 300;}
+.aux-master-menu {font-family: "Raleway";font-weight: regular;}
+.site-header-section .aux-header-elements:not(.aux-vertical-menu-elements), .site-header-section .aux-fill .aux-menu-depth-0 > .aux-item-content {height: 105px;}
+.aux-top-sticky .site-header-section.aux-sticky .aux-fill .aux-menu-depth-0 > .aux-item-content, .aux-top-sticky .site-header-section.aux-sticky .aux-header-elements {height: 85px;}
+.site-header-section .aux-middle .aux-menu-depth-0 > .aux-item-content {height: 60px;}
+.site-header-section .aux-header .aux-burger:before, .site-header-section .aux-header .aux-burger:after, .site-header-section .aux-header .aux-burger .mid-line {border-color: #3d3d3d;}
+#fs-menu-search:before {background-color: rgba(255,255,255,.95);}
+.aux-subfooter-bar {border-top: 1px solid #eaeaea;}
+.aux-subfooter {border-top: 1px solid #eaeaea;}
+.aux-site-footer {border-top: 1px solid #eaeaea;}
+.aux-logo-footer .aux-logo-anchor img {max-height: 40px;}
+@media screen and (min-width: 700px) {.aux-framed .aux-side-frames, body.aux-framed:after, .aux-framed .aux-side-frames:before, .aux-framed .aux-side-frames:after {background-color: #111;}}
+.aux-vertical-menu {background-color: ;}
+.aux-vertical-menu {background-color: ;}
+.site-header-section {background-color: rgba(255,255,255,1);}
+.site-header-section.aux-sticky {background-color: #fff;}
+.single-post .aux-overlay-bg-hash::before {opacity: .15;}
+.page .aux-overlay-bg-hash::before {opacity: .5;}
+.aux-logo-header .aux-logo-anchor > img {max-height: 105px;}
+.aux-vertical-menu-side {background-color: #fff;}
+.single-portfolio .aux-overlay-bg-hash::before {opacity: .5;}
+.aux-button {font-family: "Raleway";font-weight: regular;}
+.single-product .aux-overlay-bg-hash::before {opacity: .5;}
+.aux-site-footer {border-top-width: 1px;}
+.aux-subfooter {background-position: center center;}
+.aux-subfooter {background-size: cover;}
+.aux-subfooter {background-repeat: no-repeat;}
