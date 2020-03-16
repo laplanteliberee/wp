@@ -169,16 +169,18 @@ img.mfp-img {padding: 0;}
 .fl-node-5e11c8d0dc099 .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
+.fl-node-5e11c8d0dc099 > .fl-row-content-wrap {padding-top: 20px;padding-right: 20px;padding-bottom: 0px;padding-left: 20px;}
 .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_right"], .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_left"] {display: none !important;}
-.fl-node-5e1210b79bc24 .fl-bg-video-audio {display: none;cursor: pointer;position: absolute;bottom: 20px;right: 20px;z-index: 5;width: 20px;}
-.fl-node-5e1210b79bc24 .fl-bg-video-audio .fl-audio-control {font-size: 20px;}
-.fl-node-5e1210b79bc24 .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
+.fl-node-5e1cc9a53b966 .fl-bg-video-audio {display: none;cursor: pointer;position: absolute;bottom: 20px;right: 20px;z-index: 5;width: 20px;}
+.fl-node-5e1cc9a53b966 .fl-bg-video-audio .fl-audio-control {font-size: 20px;}
+.fl-node-5e1cc9a53b966 .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
+.fl-node-5e1cc9a53b966 > .fl-row-content-wrap {padding-bottom: 0px;}
 .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_right"], .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_left"] {display: none !important;}
-.fl-node-5e11c8ddb797b .fl-bg-video-audio {display: none;cursor: pointer;position: absolute;bottom: 20px;right: 20px;z-index: 5;width: 20px;}
-.fl-node-5e11c8ddb797b .fl-bg-video-audio .fl-audio-control {font-size: 20px;}
-.fl-node-5e11c8ddb797b .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
+.fl-node-5e1cbfaf5259d .fl-bg-video-audio {display: none;cursor: pointer;position: absolute;bottom: 20px;right: 20px;z-index: 5;width: 20px;}
+.fl-node-5e1cbfaf5259d .fl-bg-video-audio .fl-audio-control {font-size: 20px;}
+.fl-node-5e1cbfaf5259d .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e11c8d1db80c {width: 33.33%;}
@@ -187,13 +189,13 @@ img.mfp-img {padding: 0;}
 .fl-node-5e11c8d1db817 {width: 66.66%;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e1210b89ba75 {width: 100%;}
+.fl-node-5e1cc9a54cb2f {width: 66.66%;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e11c8df12ea3 {width: 66.66%;}
+.fl-node-5e1cc9a54cb34 {width: 33.33%;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e11c8df12ea9 {width: 33.33%;}
+.fl-node-5e1cbfaf7e9f3 {width: 100%;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 img.mfp-img {padding-bottom: 40px !important;}
@@ -201,21 +203,21 @@ img.mfp-img {padding-bottom: 40px !important;}
 .fl-node-5e11c8e9c86aa .fl-photo {text-align: center;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e11c91a37797 .fl-rich-text strong {font-weight: bold;}
-@media (max-width: 992px) {}
-@media (max-width: 768px) {}
 .fl-node-5e11c9a32c475 .fl-rich-text strong {font-weight: bold;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e1210b79b91b .fl-photo {text-align: center;}
+.fl-node-5e1cca019d27b .fl-rich-text strong {font-weight: bold;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e11c9c4c32a3 .fl-rich-text strong {font-weight: bold;}
+.fl-node-5e1cca239e07a .fl-photo {text-align: center;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e11c98fe7f32 .fl-rich-text strong {font-weight: bold;}
+.fl-node-5e1cbfaf51e4f .fl-rich-text strong {font-weight: bold;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
-.fl-node-5e11c8fd3b795 .fl-photo {text-align: center;}
+.fl-node-5e1ccaca5b04d .fl-photo {text-align: center;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5e3820a3271bc .fl-rich-text strong {font-weight: bold;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
