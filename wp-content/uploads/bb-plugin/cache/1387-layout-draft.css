@@ -187,6 +187,12 @@ img.mfp-img {padding: 0;}
 .fl-node-5e7e333ce65e1 .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
+.fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_right"], .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_left"] {display: none !important;}
+.fl-node-5e89d8536a210 .fl-bg-video-audio {display: none;cursor: pointer;position: absolute;bottom: 20px;right: 20px;z-index: 5;width: 20px;}
+.fl-node-5e89d8536a210 .fl-bg-video-audio .fl-audio-control {font-size: 20px;}
+.fl-node-5e89d8536a210 .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
 .fl-node-5e11c8d1db817 {width: 100%;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
@@ -203,6 +209,12 @@ img.mfp-img {padding: 0;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e7e333ce670a {width: 66.66%;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5e89d8536a352 {width: 33.33%;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5e89d8536a355 {width: 66.66%;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e11c91a37797 .fl-rich-text strong {font-weight: bold;}
@@ -226,6 +238,12 @@ img.mfp-img {padding-bottom: 40px !important;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e7e333ce670b .fl-rich-text strong {font-weight: bold;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5e89d8536a354 .fl-photo {text-align: center;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5e89d8536a356 .fl-rich-text strong {font-weight: bold;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-animated.fl-bounce-down {animation: fl-bounce-down 1s ease;-webkit-animation: fl-bounce-down 1s ease;}
