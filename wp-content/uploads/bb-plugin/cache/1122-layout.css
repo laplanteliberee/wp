@@ -202,6 +202,12 @@ img.mfp-img {padding: 0;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_right"], .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_left"] {display: none !important;}
+.fl-node-5eef6bc454eef .fl-bg-video-audio {display: none;cursor: pointer;position: absolute;bottom: 20px;right: 20px;z-index: 5;width: 20px;}
+.fl-node-5eef6bc454eef .fl-bg-video-audio .fl-audio-control {font-size: 20px;}
+.fl-node-5eef6bc454eef .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_right"], .fl-builder-row-settings .fl-field-responsive-setting input[name="bg_position_custom_left"] {display: none !important;}
 .fl-node-5e674fd8eecca .fl-bg-video-audio {display: none;cursor: pointer;position: absolute;bottom: 20px;right: 20px;z-index: 5;width: 20px;}
 .fl-node-5e674fd8eecca .fl-bg-video-audio .fl-audio-control {font-size: 20px;}
 .fl-node-5e674fd8eecca .fl-bg-video-audio .fa-times {font-size: 10px;vertical-align: middle;position: absolute;top: 5px;left: 11px;bottom: 0;}
@@ -244,6 +250,12 @@ img.mfp-img {padding: 0;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e3af5585f5ad {width: 66.66%;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5eef6bc455071 {width: 33.33%;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5eef6bc455073 {width: 66.66%;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e674fd8eee80 {width: 33.33%;}
@@ -294,6 +306,12 @@ img.mfp-img {padding-bottom: 40px !important;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e3af5585f5ae .fl-rich-text strong {font-weight: bold;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5eef6bc455072 .fl-photo {text-align: center;}
+@media (max-width: 992px) {}
+@media (max-width: 768px) {}
+.fl-node-5eef6bc455074 .fl-rich-text strong {font-weight: bold;}
 @media (max-width: 992px) {}
 @media (max-width: 768px) {}
 .fl-node-5e674fd8eee81 .fl-photo {text-align: center;}
